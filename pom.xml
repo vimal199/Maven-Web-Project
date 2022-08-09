@@ -179,7 +179,7 @@
         <activeByDefault>true</activeByDefault>
       </activation>
       <build>
-<!--
+
         <pluginManagement>
           <plugins>
             <plugin>
@@ -219,7 +219,7 @@
             </executions>
           </plugin>
         </plugins>
--->
+
 <!--
 		<finalName>Tushar-23042020</finalName>
 -->
