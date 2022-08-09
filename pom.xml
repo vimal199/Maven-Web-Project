@@ -189,7 +189,6 @@
             </plugin>
           </plugins>
         </pluginManagement>
--->
         <plugins>
           <plugin>
             <groupId>org.jacoco</groupId>
@@ -220,6 +219,7 @@
             </executions>
           </plugin>
         </plugins>
+-->
 <!--
 		<finalName>Tushar-23042020</finalName>
 -->
