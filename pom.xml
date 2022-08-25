@@ -137,13 +137,13 @@
 <repository>
 <id>nexus</id>
 <name>releaserepo</name>
-<url>http://3.84.145.86/:8081/repository/devops-maven-release2308/</url>
+<url>http://54.87.80.103:8081/repository/devops-maven-release2308/</url>
 </repository>
 
 <snapshotRepository>
 <id>nexus</id>
 <name>snapshotrepo</name>
-<url>http://3.84.145.86:8081/repository/maven-snapshot2308/</url>
+<url>http://54.87.80.103:8081/repository/maven-snapshot2308/</url>
 </snapshotRepository>
  
 </distributionManagement>
