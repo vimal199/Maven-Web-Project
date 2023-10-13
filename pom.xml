@@ -137,13 +137,13 @@
 <repository>
 <id>nexus</id>
 <name>releaserepo</name>
-<url>http://localhost:8081/repository/maven-devops0209-release/</url>
+<url>http://13.232.240.227:8081/repository/maven-java-release/</url>
 </repository>
 
 <snapshotRepository>
 <id>nexus</id>
 <name>snapshotrepo</name>
-<url>http://localhost:8081/repository/maven-devops0209-snapshot/</url>
+<url>http://13.232.240.227:8081/repository/java-maven-snapshot/</url>
 </snapshotRepository>
  
 </distributionManagement>
