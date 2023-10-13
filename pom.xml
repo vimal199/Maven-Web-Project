@@ -220,9 +220,9 @@
           </plugin>
         </plugins>
 
-<!--
-		<finalName>Tushar-23042020</finalName>
--->
+
+		<finalName>tushar</finalName>
+
 		
       </build>
     </profile>
