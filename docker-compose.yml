@@ -1,7 +1,7 @@
 version: '3'
 services:
   tushardevopsdemo:
-    image: devops715/tushar
+    image: devops715/mavenrelease
     container_name: devopsdemo
     ports:
       - "8080:8080"
