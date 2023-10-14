@@ -5,7 +5,7 @@ FROM tomcat:latest
 RUN rm -rf /usr/local/tomcat/webapps/ROOT
 
 # Copy your WAR file into the webapps directory of the Tomcat container
-COPY  target/tushar.war /usr/local/tomcat/webapps/ROOT.war
+COPY  target/tushar.war /usr/local/tomcat/webapps/tushar.war
 
 # Expose the default HTTP port for the Tomcat server
 EXPOSE 8080
