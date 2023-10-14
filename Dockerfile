@@ -11,4 +11,4 @@ COPY  target/tushar.war /usr/local/tomcat/webapps/tushar.war
 EXPOSE 8080
 
 # Start Tomcat when the container launches
-CMD ["catalina.sh", "run"]
+#CMD ["catalina.sh", "run"]
